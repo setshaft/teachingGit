@@ -1,2 +1,1 @@
-# teachingGit
-Teaching some shit
+This is to teach one guy how to use git
